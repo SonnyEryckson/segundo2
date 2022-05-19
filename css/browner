@@ -1,1 +1,43 @@
 
+body{
+    display: flex;
+    background-color: antiquewhite;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+
+.img{
+    display: flex;
+    float: left;
+    flex-direction: column; 
+    justify-content: center;
+    margin-left: 500px;
+
+}
+.receita{
+    color:rgb(67, 106, 212);
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+.ingredientes{
+    color:rgb(67, 106, 212);
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+
+}
+.itens{
+    color:darkgreen;
+    font-size: 21px;
+    font-weight: 300;
+    text-align: center;
+}
+.preparo{
+    color:darkgreen;
+    font-size: 21px;
+    font-weight: 300;
+    text-align: center;
+}
