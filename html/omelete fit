@@ -1,1 +1,42 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/omelete.css">
+    <title>Omelete Fit</title>
+</head>
+<body>
+    <div class="receita">
+        Omelete Fit
+    </div>
+    <br>
+    <img src="https://t1.rg.ltmcdn.com/pt/posts/8/2/2/crepe_suico_na_frigideira_5228_600.jpg"; height="400px" width="400px"></p>
+    <div class="itens">
+        
+        <H2>INGREDIENTES </H2>
+        <p>
+            1 ovo</br>
+            1 colher (sopa) de aveia</br>
+            recheio de sua preferência</br>
+            sal a gosto</br>
+            azeite (opcional)</br>
+
+    </div>
+    <div class="preparo">
+        
+        <H2>COMO PREPARAR O OMELETE FIT</H2>
+        <p>
+            Em um recipiente, junte o ovo, a aveia, uma pitada de sal e misture.</br>
+            Acrescente o recheio que desejar logo na mistura ou coloque depois que o omelete já estiver pronto.</br>
+            Em uma frigideira, coloque um fio de azeite e a mistura.</br>
+            Vire, deixe fritar do outro lado e está pronto.</br></p>
+
+    <a href="index.html">VOLTE PARA À PÁGINA INICIAL</a>
+
+    </div>
+
+</body>
+</html>
